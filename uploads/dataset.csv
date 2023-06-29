@@ -1,0 +1,2 @@
+,Tweet,StopwordRemoval,Casefolding,Normalize,RemoveEmoticon,Stemming,HasilPreprocess,HasilProcess_lr,HasilProcess_svm,HasilProcess_dt,HasilProcess_nb,HasilProcess_stacking
+0,anda sebaiknya jaga perkataan anda,jaga perkataan,anda sebaiknya jaga perkataan anda,anda sebaiknya jaga perkataan anda,anda sebaiknya jaga perkataan anda,anda baik jaga kata anda,jaga kata,BUKAN ujaran kebencian,BUKAN ujaran kebencian,BUKAN ujaran kebencian,BUKAN ujaran kebencian,BUKAN ujaran kebencian
